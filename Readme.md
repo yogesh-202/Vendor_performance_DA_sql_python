@@ -53,9 +53,3 @@ pip install pandas numpy jupyter sqlite3
 ## Notes
 - Large data files and database are not tracked in version control
 - See individual notebooks for detailed analysis steps
-
-## Author
-[Your Name]
-
-## License
-[Choose appropriate license]
