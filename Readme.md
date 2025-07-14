@@ -1,4 +1,4 @@
-# Inventory Analysis Project
+# Vendor Performance Analysis Project
 
 ## Overview
 A comprehensive data analysis project focused on inventory management, sales tracking, and vendor performance analysis using Python and SQL.
